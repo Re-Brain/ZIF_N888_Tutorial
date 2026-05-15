@@ -1,5 +1,7 @@
 print("Program 4")
 
-print("first changes")
+print("First Changes")
 
-print("third changes")
+print("Second Changes")
+
+print("third Changes")
